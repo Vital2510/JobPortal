@@ -1,0 +1,13 @@
+.job{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 45px;
+    font: 1.3rem black;
+    background-color: rgb(233, 227, 228);
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+    border-radius: 20px;
+    width: 100%;
+}

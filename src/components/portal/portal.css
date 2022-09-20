@@ -1,0 +1,32 @@
+
+.head {
+    padding: 8%;
+    margin: 1%;
+    background-color: rgb(116, 52, 116);
+    background-size: 100% 500px;
+    color: white;
+    background-repeat: no-repeat;
+}
+
+.cnt {
+    margin: 2%;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+.inp{
+    margin: 2% 4%;
+}
+.card{
+    margin:1%;
+    height: auto;
+    width:95%;
+    padding:1% 1%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.jobs{
+    display: inline;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
